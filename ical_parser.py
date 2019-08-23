@@ -5,8 +5,6 @@ import re
 from flask import Flask, send_file
 app = Flask(__name__)
 
-#url = 'http://www.upv.es/ical/E212429CBCCCA133BDFC7DC49488D99BC616EC444AC2A7F245F5E62EFBF27C40335E9E56C1FFCB6F'
-
 def icalParser(url):
     # Get the file from the internet
     print("\nDonwloading ical file...")
