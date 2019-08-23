@@ -8,7 +8,6 @@ dnspython==1.15.0
 enum34==1.1.6
 Flask==1.1.1
 futures==3.2.0
-gyp==0.1
 icalendar==4.0.3
 idna==2.6
 ipaddress==1.0.17
