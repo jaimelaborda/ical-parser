@@ -1,1 +1,1 @@
-worker: python ical_parser.py
+web: gunicorn ical_parser:app
