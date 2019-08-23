@@ -1,1 +1,1 @@
-web: python ical_parser.py
+worker: python ical_parser.py
